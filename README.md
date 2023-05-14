@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Gahlawat</h1>
-<h3 align="center">A passionate back-end & blockchain software developer from 🇮🇳 with <b> 3 (appx.) years of experience </b> in designing, developing and delivering scalable back-end and blockchain products rapidly from scratch with over <b>15+ projects delievered</b> on-time with <b>100% positive feedback.</b></h3>
+<p align="center">A passionate back-end & blockchain software developer from 🇮🇳 with <b> 3 (appx.) years of experience </b> in designing, developing and delivering scalable back-end and blockchain products rapidly from scratch with over <b>15+ projects delievered</b> on-time with <b>100% positive feedback.</b>
 <br/>
 
 - 🌱 I’m currently learning: **JavaScript (React)**

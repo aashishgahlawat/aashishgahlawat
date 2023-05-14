@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashish Gahlawat</h1>
-<h3 align="center">A passionate back-end & blockchain software developer from 🇮🇳</h3>
-<br/><br/>
+<h3 align="center">A passionate back-end & blockchain software developer from 🇮🇳 with <b> 3 (appx.) years of experience </b> in designing, developing and delivering scalable back-end and blockchain products rapidly from scratch with over <b>15+ projects delievered</b> on-time with <b>100% positive feedback.</b><h3/>
+<br/>
 
 - 🌱 I’m currently learning: **JavaScript (React)**
 
@@ -18,7 +18,7 @@
 - 🌐 https://aashishgahlawat.github.io
 - ❓ https://stackoverflow.com/users/9437787
 
-## Languages and tools
+## Languages and tools:
 - **Cloud:**        AWS (EC2, RDS, SQS, S3, ) & GCS (Firebase, Location, Log-In)
 - **Blockchain:**   Solidity (ETHEREUM & POLYGON)
 - **Back-End:**     Python (Django & Pandas)

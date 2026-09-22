@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/aashishgahlawat)
 
-- 📄 Know about my experiences: [Resume: Google Document](https://docs.google.com/document/d/1_ZeR2oZck85QePG68cYrzHxTTkHyBQFEWiY57bu_pHU/edit?usp=sharing)
+- 📄 Know about my experiences: [Resume: Google Document](https://docs.google.com/document/d/12wm8XOI9Gqb2NvBdZisFFVMPM1sA7AAffAQqlTFNEgM/edit?usp=sharing)
 
 ## Connect with me:
 - 👨‍💼 https://linkedin.com/in/aashishgahlawat

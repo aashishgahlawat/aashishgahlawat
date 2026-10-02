@@ -1,28 +1,66 @@
 <h1 align="center">Hi 👋, I'm Ashish Gahlawat</h1>
-<p align="center">A passionate back-end & blockchain software developer from 🇮🇳 with <b> 3 (appx.) years of experience </b> in designing, developing and delivering scalable back-end and blockchain products rapidly from scratch with over <b>15+ projects delievered</b> on-time with <b>100% positive feedback.</b>
-<br/>
+<h2 align="center">6 y/o exp. | Python (Django & FastAPI) | Blockchain (Ethereum) | AI - RAG </h2>
 
-- 🌱 I’m currently learning: **JavaScript (React)**
+<p align="center">
+  <b>AI & Backend Engineer from 🇮🇳</b> with <b>6+ years of experience</b> building and maintaining production applications across AI/LLM, backend engineering, cloud, and Web3. I work primarily with Python, FastAPI, Django, LLMs, RAG, PostgreSQL, Blockchain and AWSwith experience taking products from rapid prototypes to production systems.
+</p>
 
-- 💬 Ask me about: **Software Development, Personal Development**
+---
 
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/aashishgahlawat)
+* 🤖 Currently working with: **AI/LLM, RAG, Backend Systems & Cloud**
+* 💬 Ask me about: **Python, Backend Development, AI/LLM, RAG, APIs, Databases & Web3**
+* 🔧 I enjoy: **Building things from scratch, rapid prototyping, solving production problems & learning new technologies**
+* 📫 How to reach me: [LinkedIn](https://linkedin.com/in/aashishgahlawat)
+* 📄 Resume: [View Resume](https://docs.google.com/document/d/12wm8XOI9Gqb2NvBdZisFFVMPM1sA7AAffAQqlTFNEgM/edit?usp=sharing)
 
-- 📄 Know about my experiences: [Resume: Google Document](https://docs.google.com/document/d/12wm8XOI9Gqb2NvBdZisFFVMPM1sA7AAffAQqlTFNEgM/edit?usp=sharing)
+## Connect with me
 
-## Connect with me:
-- 👨‍💼 https://linkedin.com/in/aashishgahlawat
-- 📝 https://medium.com/@aashishgahlawat
-- 👨‍💻 https://codeforces.com/profile/aashishgahlawat
-- 📁 https://github.com/aashishgahlawat
-- 🌐 https://aashishgahlawat.github.io
-- ❓ https://stackoverflow.com/users/9437787
+* 👨‍💼 [LinkedIn](https://linkedin.com/in/aashishgahlawat)
+* 📝 [Medium](https://medium.com/@aashishgahlawat)
+* 👨‍💻 [Codeforces](https://codeforces.com/profile/aashishgahlawat)
+* 📁 [GitHub](https://github.com/aashishgahlawat)
+* 🌐 [Website](https://aashishgahlawat.github.io)
+* ❓ [Stack Overflow](https://stackoverflow.com/users/9437787)
 
-## Languages and tools:
-- **Cloud:**        AWS (EC2, RDS, SQS, S3, ) & GCS (Firebase, Location, Log-In)
-- **Blockchain:**   Solidity (ETHEREUM & POLYGON)
-- **Back-End:**     Python (Django & Pandas)
-- **Front-End:**    JavaScript (React), CSS (TailWind), HTML
-- **Database:**     MySQL, PostgreSQL, Redis, Elastic
-- **Non-Tech:**     Wordpress, AdobeXd, NameCheap (Hosting, SSL, Email)
-- **Other:**        Docker, Nginx, Git (Github, Github Actions, BitBucket), Linux, Jira, Asana
+## Languages & Tools
+
+### 🤖 AI / LLM
+
+**LLM • RAG • LangChain • LangGraph • Langfuse • Chainlit • vLLM • GPT OSS**
+
+### 🐍 Backend
+
+**Python • FastAPI • Django • REST APIs • Pandas • Celery • Redis**
+
+### ☁️ Cloud & DevOps
+
+**AWS • EC2 • RDS • S3 • SQS • Docker • Linux • Nginx • GitHub Actions • Terraform • Ansible**
+
+### 🗄️ Databases
+
+**PostgreSQL • MySQL • Redis • Elasticsearch**
+
+### ⛓️ Blockchain / Web3
+
+**Solidity • Ethereum • Polygon • OpenZeppelin • ERC20 • ERC721 • ERC1155 • MetaMask • IPFS**
+
+### 🌐 Frontend
+
+**JavaScript • React • React Native • HTML • CSS**
+
+### 🛠️ Other
+
+**Git • GitHub • Jira • Linear • WordPress • Adobe XD**
+
+---
+
+## What I Build
+
+* 🤖 **AI / LLM Applications**
+* 🔎 **RAG & Document Processing Systems**
+* ⚡ **Backend APIs & Microservices**
+* 🗄️ **Database Architecture & Data Processing**
+* ☁️ **Cloud & Backend Infrastructure**
+* ⛓️ **Blockchain & Web3 Applications**
+* 🚀 **Rapid MVPs & Prototypes**
+* 🔧 **Existing System Development & Optimization**
